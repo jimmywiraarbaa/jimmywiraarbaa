@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&center=true&vCenter=true&pause=500&width=450&height=60&lines=JIMMY+WIRA+ARBAA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&center=true&vCenter=true&pause=500&width=500&height=60&lines=JIMMY+WIRA+ARBAA" />
   </h1>
 
 <h1 align="center">Hi 👋, I'm Jimmy Wira Arba'a</h1>
