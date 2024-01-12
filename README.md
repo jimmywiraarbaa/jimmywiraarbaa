@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmywiraarbaa&label=Profile%20views&color=0e75b6&style=flat" alt="jimmywiraarbaa" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Bootstrap, Flutter**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Bootstrap, Laravel, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://jimmywiraarbaa.github.io/first-portfolio/](https://jimmywiraarbaa.github.io/first-portfolio/)
 
