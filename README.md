@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&color=ffa12e&center=true&vCenter=true&pause=500&width=700&height=60&lines=JIMMY+WIRA+ARBAA" />
   </h1>
 
-<h1 align="center">Hi 👋, I'm Jimmy Wira Arba'a</h1>
+<h1 align="center">I'm Jimmy Wira Arba'a</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmywiraarbaa&label=Profile%20views&color=0e75b6&style=flat" alt="jimmywiraarbaa" /> </p>
 
