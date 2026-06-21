@@ -31,24 +31,23 @@
 
 </div>
 
-```go
-package main
-
-type Developer struct {
-    Name     string
-    Role     string
-    Email    string
-    Focus    []string
-    Learning []string
-}
-
-var Jimmy = Developer{
-    Name:     "Jimmy Wira Arba'a",
-    Role:     "Backend Engineer",
-    Email:    "jimmywiraarbaa03@gmail.com",
-    Focus:    []string{"Go", "Clean Architecture", "REST API", "PostgreSQL"},
-    Learning: []string{"System Design", "Microservices", "Cloud Native"},
-}
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   >_ jimmy@dev ~ whoami                                            ║
+║                                                                    ║
+║   ┌──────────────────────────────────────────────────────────┐     ║
+║   │  ID          # jimmy-wira-arbaa                           │     ║
+║   │  ROLE        # Backend Engineer                            │     ║
+║   │  SIGNAL      # jimmywiraarbaa03@gmail.com                  │     ║
+║   │  STACK       # Go · PostgreSQL · Docker · React            │     ║
+║   │  PROTOCOL    # Clean Architecture · REST                   │     ║
+║   │  COMPILING   # System Design · Microservices · Cloud       │     ║
+║   └──────────────────────────────────────────────────────────┘     ║
+║                                                                    ║
+║   STATUS: ● ONLINE  |  UPTIME: 99.9%  |  LATENCY: 0ms             ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
